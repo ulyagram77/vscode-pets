@@ -889,7 +889,7 @@ class PetWebviewContainer implements IPetPanel {
                     src: url('${silkScreenFontPath}') format('truetype');
                 }
                 </style>
-				<title>VS Code Pets</title>
+				<title>ЕБАТОРИУМ</title>
 			</head>
 			<body>
 				<canvas id="petCanvas"></canvas>
