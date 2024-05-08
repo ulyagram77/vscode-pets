@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'VS Code Pets'
+project = 'EBANARIUM'
 copyright = '2022, Anthony Shaw'
 author = 'Anthony Shaw'
 

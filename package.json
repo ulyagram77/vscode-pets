@@ -51,7 +51,7 @@
                 {
                     "type": "webview",
                     "id": "petsView",
-                    "name": "VS Code Pets",
+                    "name": "EBANARIUM",
                     "when": "vscode-pets.position == 'explorer'",
                     "icon": "media/dog.svg"
                 }
