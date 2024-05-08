@@ -52,7 +52,7 @@ export class Clippy extends BasePetType {
         return '📎';
     }
     get hello(): string {
-        return ` Hi, I'm Clippy, would you like some assistance today? 👋!`;
+        return ` Hi, I'm Clippy, would you like some assistance today? mom?!`;
     }
 }
 

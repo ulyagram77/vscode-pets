@@ -582,7 +582,7 @@ export function petPanelApp(
                     saveState(stateApi);
                     stateApi?.postMessage({
                         command: 'info',
-                        text: '👋 Removed pet ' + message.name,
+                        text: 'mom? Removed pet ' + message.name,
                     });
                 } else {
                     stateApi?.postMessage({

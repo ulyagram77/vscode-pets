@@ -47,7 +47,7 @@ export class Crab extends BasePetType {
         return '🦀';
     }
     get hello(): string {
-        return ` Hi, I'm Crabsolutely Clawsome Crab 👋!`;
+        return ` Hi, I'm Crabsolutely Clawsome Crab mom?!`;
     }
 }
 

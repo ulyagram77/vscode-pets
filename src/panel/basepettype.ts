@@ -150,7 +150,7 @@ export abstract class BasePetType implements IPetType {
 
     get hello(): string {
         // return the sound of the name of the animal
-        return ` says hello 👋!`;
+        return ` says hello mom?!`;
     }
 
     getState(): PetInstanceState {
@@ -218,7 +218,7 @@ export abstract class BasePetType implements IPetType {
         this.holdStateEnum = this.currentStateEnum;
         this.currentStateEnum = States.swipe;
         this.currentState = resolveState(this.currentStateEnum, this);
-        this.showSpeechBubble('👋');
+        this.showSpeechBubble('mom?');
     }
 
     chase(ballState: BallState, canvas: HTMLCanvasElement) {
