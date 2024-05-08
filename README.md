@@ -1,6 +1,6 @@
 <div align='center'>
 
-# EBANARIUM
+# EBATORIUM
 
 ![icon](https://github.com/tonybaloney/vscode-pets/raw/master/icon.png)
 </div>    
@@ -34,7 +34,7 @@ With VS Code open, launch VS Code Quick Open (`Ctrl+P` on Windows/Linux or `Cmd(
 
 `ext install tonybaloney.vscode-pets`
 
-## Using EBANARIUM
+## Using EBATORIUM
 
 Congrats on installing joy! Enjoy interacting with these cute pixelated pets. Read below to get a full understanding of this extension. Not convinced? Watch our extension spotlight on [Visual Studio Code](https://www.youtube.com/watch?v=aE6Ifj_KstI).
 

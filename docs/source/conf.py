@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'EBANARIUM'
+project = 'EBATORIUM'
 copyright = '2022, Anthony Shaw'
 author = 'Anthony Shaw'
 

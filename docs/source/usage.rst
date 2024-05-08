@@ -1,4 +1,4 @@
-Using EBANARIUM
+Using EBATORIUM
 ==================
 
 Congrats on installing joy! Enjoy interacting with these cute pixelated pets. 
@@ -88,7 +88,7 @@ You can also click the squirrel icon in the bottom of the VS Code Window to crea
 Throwing a ball
 ---------------
 
-Play catch with your pet! Click the ball icon in the EBANARIUM panel to throw the ball:
+Play catch with your pet! Click the ball icon in the EBATORIUM panel to throw the ball:
 
 .. image:: _static/throw-ball.gif
 
@@ -129,7 +129,7 @@ The pet list can be imported by running the "Import pet list" command (`vscode-p
 Themes
 ------
 
-EBANARIUM comes with themes. Themes are set from the VS Code Preferences Window. Search for "vscode-pets" to find the EBANARIUM specific settings.
+EBATORIUM comes with themes. Themes are set from the VS Code Preferences Window. Search for "vscode-pets" to find the EBATORIUM specific settings.
 
 Configure `vscode-pets.theme` to `"forest"` and let your pets play in a spooky forest.
 
